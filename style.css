@@ -121,3 +121,9 @@ a {
   font-size: 20px;
   font-weight: bolder;
 }
+.container-card {
+  display: flex;
+  align-items: center;
+  min-height: 500px;
+  background-color: #a628ff;
+}
