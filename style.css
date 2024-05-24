@@ -124,18 +124,30 @@ a {
 .container-card {
   display: flex;
   align-items: center;
-  min-height: 500px;
+  min-height: 250px;
   background-color: #a628ff;
 }
 .card {
   display: flex;
   align-items: center;
-  background-color: #a628ff;
+  background-color: #3882f6;
   gap: 100px;
+  padding: 25px 100px;
+  border: none;
+  border-radius: 10px;
 }
 .card h4 {
   font-size: 17px;
+  margin: 0 15px 0 15px;
 }
 .card p {
   font-size: 13px;
+  margin: 0 15px 0 15px;
+}
+.card button {
+  padding: 5px 30px;
+  border: 2px #fff solid;
+  background-color: #3882f6;
+  color: white;
+  border-radius: 8px;
 }
