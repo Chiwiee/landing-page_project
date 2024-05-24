@@ -127,3 +127,15 @@ a {
   min-height: 500px;
   background-color: #a628ff;
 }
+.card {
+  display: flex;
+  align-items: center;
+  background-color: #a628ff;
+  gap: 100px;
+}
+.card h4 {
+  font-size: 17px;
+}
+.card p {
+  font-size: 13px;
+}
