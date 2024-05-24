@@ -5,9 +5,6 @@
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 0 30px;
   line-height: 1.5;
   font-size: 16px;
   color: #fff;
@@ -20,6 +17,11 @@ img {
 }
 h1 {
   margin-bottom: 12px;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 30px;
 }
 .navbar {
   background-color: #1f2937;
