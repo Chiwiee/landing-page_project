@@ -71,3 +71,21 @@ a {
   background-color: #800080;
   color: #ffbaff;
 }
+.container img {
+  max-width: 200px;
+}
+.item-1 img {
+  height: 132px;
+}
+.container-info {
+  display: flex;
+  align-items: center;
+  min-height: 500px;
+  background-color: #4b0082;
+}
+.container-info .container {
+  display: flex;
+  gap: 30px;
+  height: 500px;
+  align-items: center;
+}
