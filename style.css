@@ -81,7 +81,7 @@ a {
   display: flex;
   align-items: center;
   min-height: 500px;
-  background-color: #4b0082;
+  background-color: #a628ff;
 }
 .box-info {
   display: flex;
@@ -96,4 +96,9 @@ a {
 .items img {
   border: none;
   border-radius: 25px;
+}
+.items p {
+  font-size: large;
+  font-weight: 600;
+  text-align: center;
 }
