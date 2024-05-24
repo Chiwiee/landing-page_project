@@ -48,6 +48,7 @@ a {
 .header {
   display: flex;
   align-items: center;
+  min-height: 500px;
 }
 .header .container {
   display: flex;
