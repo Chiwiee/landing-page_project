@@ -64,4 +64,8 @@ a {
 .purple {
   font-size: 15px;
   font-weight: 600;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
