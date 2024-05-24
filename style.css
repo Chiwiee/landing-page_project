@@ -39,6 +39,9 @@ p {
   justify-content: space-between;
   gap: 20px;
 }
+.links a:hover {
+  color: #a628ff;
+}
 ul li {
   list-style-type: none;
 }
