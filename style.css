@@ -61,6 +61,11 @@ a {
   gap: 200px;
   min-height: 600px;
 }
+.header img {
+  border: none;
+  border-radius: 40px;
+  box-shadow: rgba(174, 118, 186, 0.677) 0px 0px 40px;
+}
 .logo {
   font-size: 24px;
   color: #b64fff;
@@ -71,12 +76,13 @@ a {
   padding: 10px;
   border: none;
   border-radius: 8px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  box-shadow: rgb(113, 0, 139) 0px 0px 40px;
   background-color: #800080;
   color: #ffbaff;
 }
-.container img {
+.container-info img {
   max-width: 400px;
+  box-shadow: rgb(56, 0, 68) 0px 0px 30px;
 }
 .item-1 img {
   height: 84%;
